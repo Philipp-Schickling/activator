@@ -1,0 +1,9 @@
+Functions that are used on every page.
+
+class URL {} 
+	
+	class to link to the requested site and get the title 
+
+function __tr {}
+
+	funtion to translate the content regarding the user-agent's language settings

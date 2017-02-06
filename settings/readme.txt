@@ -1,0 +1,1 @@
+settings.php wird von jeder view-Page eingebunden.

@@ -1,0 +1,20 @@
+RewriteEngine On
+RewriteBase /
+
+# Disable Indexes (Structure of foldercontent when calling e.g. /test/pictures/)
+Options -Indexes
+Options +FollowSymLinks
+
+# Rewrite asset requests to "controller/assets/"
+RewriteRule ^assets/(.*)$ controller/assets/$1  [QSA,L]
+
+# Rewrite action form requests to "controller/handler/"
+RewriteRule ^action/(.*)$ controller/handler/$1.php  [QSA,L]
+
+    # Do not rewrite asset requests
+    RewriteCond %{REQUEST_URI} !assets
+
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^(.*)$ index.php?request=$1 [NC,L]
