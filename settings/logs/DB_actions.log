@@ -1,0 +1,4654 @@
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => 89a5f79f1ea3064a2c6a9fbf70eaa832
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => 359cc793dd5c322401d9917543d1bd5e
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 3e21768e652a0de693174feb33be6208
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 8832f8cbdf7dc2ea8e54eb1024251efb
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => 85f533e58106f6fc4a04fb9b9f718247
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => a19b3a3aea07c3de673ac8303da964ba
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => 6313584d8b183a40a6d7adfc8fc2701d
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => 4cdb9c1e9fd3df98db0935c7e4d009d1
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 8c3f8672935123a895e4ede495967d6c
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 3af9c3f6e917396af8a991507ab5ba29
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 5da8de36bbaa0092f6ec66b8572f2d25
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => f44190b0a80e5d35ee7c79683668624c
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => da846e87dadc1d5ba4ad281292bca43e
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 90b8d62e205f207a77c3bb764cd88c4e
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => edb894547b4d5292e2fec690efb295c5
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 5bc794e8c09bf0a3757802b2e711c132
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => c48c48cc82d2ddbbab81a5c9faadaf54
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 74b9d0a19c834ae2eb25a077a1b3c060
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => c6387cfa6a61744dc9e547c7b0feaed6
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 771fe0cfbc2dd709ec2e76f73ef753f2
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => 5bf9d961ba2170616a550c4476a22ea9
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => a9e6fa9bb5002262caf9986d50a64f5e
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 206b5c0b3a00398a2a5bd077935a16b8
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 16bf18b2ff472d99c77385e1a16a1172
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => 60da8aed5c609da6507e875f113f8d5c
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => ee421241505b1ff62131f8eb59a203a0
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 4fb9a9c8c4e13a618a52de4de37acd16
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => d68b0d0d6b2ac1985292e16e9de8cfad
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 3968943ea670c354de081de9055b7bb7
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 53ecbfbc902a6bab67385438213bafca
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => b4518c9dc509f1451d1e7b59a30cd268
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => b951af5575bacb4892ffb1a89e544f68
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 2156eb3c3710ee21b5c384a591d7c198
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => af1a5a8059f0bfe2e25fa0901417b2af
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 48df3af47c2da0b907ad926409e76d41
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 0c6feccbc83a3539da1a3bc4df24509d
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 057bd0b547ea053d1b4a680b90d5a331
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => daf65f7f081ffcf3de0f909fe9c552b4
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 8422a353fdf93633d70c7b731b6674cb
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 61e71725a542b2ce517c3645f3f17e49
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 59ac4ce0ed4864a076b50fb9ed260ccf
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => e68fe0a5a0c28d02b19aea6630827091
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => c80a34f873a6711e160e05ba159aa2da
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 27aac64796d21b1f671ac686f2515491
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 64fae29dcf257afcd985f2d274ebd5f6
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => fd3b2b1b0746ff4941894cde109ded47
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => f3a473a63b7f9f406285678871bec42a
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => b9ce56209fc937ad773069d83062efe3
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => ab134650b63999359c3f3100003b3c71
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 7c4f21af24ea9073ea645329183d6c6b
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => d66eebb7c1a17490b389d905bdd9722f
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 1804286e66c22798764571f7b6aa37a9
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 322aa08f1b440f528f3a55870d463de3
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 9780196600df08e9ca16ccc32493dd44
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 7c46540800da35f9ddd8aa4352edf246
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => ed47b27f627c3d2fd3d15946207f1240
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 48e5bafed690758b94b6a62fa7ca0c80
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 79fbb7f0660cc6cc28c7059628d7d01e
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => d92957c86daf9b7aa41f608479ec0f7d
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => bf68cca298c8c0f68eb0708c55fe8609
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => cdf7b9eb7beb652902657ce5dc8151ca
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => 6810d424a29172031b7b7e20f603d202
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => ec6d2a6e857a7207804e144c531b3da9
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => dcfc66fb6aa3533185f375abe2cae44a
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => 32fd30a750a07617ae1e234549d344ce
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => 1c21d0ad954be6dee3a7cae55280f75e
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => 9d46e2af531095da437b0c6d3a9a6739
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => 8dc1a604c3f9bc4e990efa106e88836e
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 9f20baa7e274263f7c58375134b7f167
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => b64ec336abbe0ff2a39f54521c9bc56a
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => 9d5519ab3a3802355ee59d1974102018
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => ddbab7f5f6bcbbda332b223b858b1cee
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => dbeeef61dc64b9bbe589ae7ed03d9f51
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 6ee29449acd5c61e52f67b90bbfe1128
+    [:salt] => 3596c8b887a2c365eb3505083d1a6565
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => d0143f779ba7df419f6597715e70bd60
+    [:salt] => 00aaae424d4b457ecd5358a102def1f5
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => d0143f779ba7df419f6597715e70bd60
+    [:salt] => fe8bc50b541d51a7c42fd624c24b4bc2
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => d0143f779ba7df419f6597715e70bd60
+    [:salt] => 6b7ce62c39c627625aa355bd002e1030
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => d0143f779ba7df419f6597715e70bd60
+    [:salt] => 039374876c8282738eed35b1ab77f12b
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => abcsadsfg
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => abcsadsfg
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => abcsadsfg
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => abcsadsfg
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => abcsadsfg
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => abcsadsfg
+)
+
+INSERT INTO user( username, password, department, id ) VALUES( :username, :password, :department, :id )
+Array
+(
+    [:username] => abcsadsfg
+    [:password] => $2y$10$nmikPHr3wXYIO8RwQm8tIuB7AbgpPoIJQ7wtwHiIgHMVS0oDgzMK.
+    [:department] => gestaltung
+    [:id] => 3dcd9e8eae3ad543e183ec48d2150355
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => abcsadsfg
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => abcsadsfg
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => beabf61d6441ec459249f235be044231
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 5a1cb2b8b436f15b280278e1f32dc28a
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 608545e370675477759fbc4d862e21bf
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 0e6d5c7a48805a1bfc125249d921bd83
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 055beead3daef167af0ea2f3649c6b75
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 90ea977666a5bf5f0e9d10028fcd28ae
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 9f6ce8f3161f0df208237dc856bbe13c
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 50db3e6b14064bf9bf27cc9446b7940c
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => b1157a4154ae9ac73e827922e85086db
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => b3a1275d867a126214caa61564ec4055
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 46f966802a231bed3a098cbb01f15911
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 351a43d8ad03cac0c934dc241d6b4b53
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => c24baedc80aa8cd23a70b2e3cabb1f30
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 28d66f50ac84beb504ea3ba5dd4b4037
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => b03c9d1d378865b50a09adf826dabf74
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 7e38d50b16b03efa2419a8262e4e73ac
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 62790c0e1cd10c9708574f0c742ae5f8
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 53ac250230f1b4c5e9c3d8dd572c9137
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 08ed47eaf24e9bbc1ddc96603abc1851
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 4de4d96d63e6f37bce8863627056ca76
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => d0d1060fa85438a352ffea80e181521d
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 0ed89dac598e986c502db062b5bf200d
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 3a87825ad74b8d3947f141fec07c47a1
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 7ac49ecfb18130287316fdaee15784b7
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => f7fcc9a666a087817ebf921e89a3eac3
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => ee8f72f619babbf00eb4d4c33df6b17e
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => dc1356f1070982d1ba04fbc787dc7fa9
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 58d77fc4e4d3b93e404be2cbc5c720e7
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => f24ae5aeeec383e04a1b3884ecab5541
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 28dac06d57b516e897a78d1455dfb505
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => e4756daacca29e29a7f86845ae9ca727
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => be02042a484369110806579c908cfdf7
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => ad197186551a93878c0ad8e4d6783dae
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 489417bf31021ce781d8b12c132c57e5
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => c041bed5b958137b02523ac4996abf7e
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 76fa74ad17e77347147adeea9f7eff2f
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 27a97573f626f4e4d6c5303dabbffc0a
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 53085bfee57404f2f7929598cb09ce22
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 9439631c2fb56950e70ba8ee3203974a
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 0c40e61eb546cddc36c0959ed3c1305f
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 288fb487b7b043bdb24b6d7fc545e38f
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => a98068c7764101824388d27824840072
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 95a8c41fd9df7f3a61a0aba9bde5b57c
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 75f8db77f074d8916904f20ce74a6057
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => d2d2bf117f05536b3c959755dd5964c6
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 0876b024e1119d1ea19014c7525a7026
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => cb1edac02fdcfabea9a773919123e06c
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 17ad75fc023d12315322946803523ac5
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 6c33601edb694689fb158dc1790bfb56
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 0f8247cd8ae55f96a85f5e374d77101d
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 16d47501f75a7877bffc5f999b44bb0c
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 507b090339600ead297d3d14c98bc60a
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 4467d6b05d68b55caf6a93b72a4d4b5d
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 77745305901fbfbc2aa5ac23fc500cfd
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 7db33866474df479a643265eab5be696
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => ac849da231c09d98d77fac7f6a5b510c
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 61886120810e1b03ecc5c22ffaa63415
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => bcc6667d8a6caebcc26984055c3a88c5
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 118946d2f636bb88b0cd5fadc7d7542d
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => f5a6266e3faed533c1c4ca37fc273ac0
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => a788f47a0351ed48426b5c976fbb17dd
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 94ef1781e3cb0f9e52ad11588e11465d
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => b5c2db733f1e6cd66bf4dfe794b675fd
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 8d58c54d7c7ff42299cd639bb3e2524e
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 0fcaa1ff76114c0fa5a21056c7e59464
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => f7c50301c23c72d31ce36aa2a03c8e37
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 97d34babff84bb018fec7343c01b5eca
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 6be2c6838d624b21a14d41400af7c084
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 210f2bb43cab1f15d72fde7c86bf2c4f
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 590a49bc486c402df5157de8b067ca66
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 887ce02eff86a558ae4e39c272c47fc5
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 44749695c52de36a1e0340e675fee5b9
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 7fc9a1ff1bf30e1be97ac11655a9145e
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 9b56c79e43539062b7bdaa150dd44131
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 2fe6cad931e7d07156bae7e3e4963935
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 76ea08d09547a5632b10b37689427f34
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => eab681d45da5603bafed36b2eec69d52
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 3ac024b50fea00f2d7621bd36ac40d2d
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 0faca2ce41a7b95bee2ea2392d2a0520
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 727b970b2253ba5f0d2f5fb7cb4b5e2a
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 1227465eea6efbb23d68d9cac3534fca
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 0244fa70ad76249c4fcd03b45af7b4d3
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => f187236fd9904efdabe8532923e2218a
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 1e31fc42f5a2eb0b833a2d10dd259db9
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 6ad624d3b154ba6093d00d4d9f439688
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 9bf7f872ead1a12b2d7c05d9d937d300
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => b9af98f2ebbf85a4e1e2e9c3104aea27
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 1a70dcd340c78f2226fa27ef6e04c67a
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 5b40efc5f10b2ecf35154c64d541aa49
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 6a7232c2c260816b0ed56a3e289e897c
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 047bfbdc47e41ea505d32ac9e0e2e2c6
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => ca608bb61c325d85f8355d8fd1be3841
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 95b8dec9ea0c1f50b4f928d8db1601d6
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 3375c940dcf4b22bbf6e2f7ed9e37fa7
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 12700d4b927e01211342f9172c6a1ff3
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => c7d450eb7b0c2f808703ab5db493f529
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 3d7bafce1c2b89ce60996a57e8c7872b
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => dc96201dd916095f10c9790335120360
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => aedfaced3a235cd0aa9b60a63f1b3b23
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => d7b872d0b9c5eec8d11a6919148f5a2a
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 8b5643ef83d124d2b13f54f868ef83df
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 99974108f364bb2627884825b6b568d5
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => ee894ac1b14a07e739b06ec5db9dc3b7
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 0c32f9b15bd4e43aa8ae5f3fe0163de9
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => c05e9c55d363e892756cc04f191d3c91
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => ab71f41b12f06db57b4b3694837096aa
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 936b4877108eacbb17bdc613896f430b
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => f5eef3a16fc4af539b1a0a27953b84d9
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => fab51e0e1de0f7ec3603b4ab5e706b52
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 745388f4bd1333eac3fb6a80199399b2
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 6c3a0487af4c4f08ae2c4ef0783f7154
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 858c2966929415f2bb8d9b8e0b2dcbc3
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 2eb5bf8544015b9eb3a5b3adaa6f5ea9
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 28c59aa5fb6329b1ea131460afc976ce
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 2648f9a1314546838072c0af7c45026f
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => afa433da1aa59f1284d27bca84bc337b
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 5665136aa7cba9a32b9f0bf7aa286f08
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 6bd97247685387e81ddb788d21752785
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => ca1ee8efbd5afe95599c2c0117614bf3
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 244118bedf7f7e5706ebd226e7e801f8
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 10510bc5836f77fe5269bc9f768ce9cb
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => a6505fa62c34d433f22275f93ae0f28c
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => c7d1ac98bc540cee2ef4a4e067eb7eec
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 63412a4dd8b74beb220e17a863640793
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 82c9c6ecfd76b9222861924bb8c968d5
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 80f94a074c0958d38fe6af9fb50e07eb
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => a8345dca38489d24640176a85e120555
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 3
+    [:salt] => 1171d542c64905ab6bf78bddf14c9be0
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 33c06032b95989a37c6279030e0c88a9
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => d35b89705979315746ef5e1734e861a4
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => d4ec359652e71e0ae09012778148d910
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 333b36d31a4dc72c50eef1c443c8c1bd
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 911064489519ec77f68cba10fe4f7993
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 1de39f699999392e87cca9c2447cfbef
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 53ef6ce0b0b2feb8554f83e8446806c9
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => da874bb3fd92b36f0637a53d7bbf2585
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => bc3a65768cdd300a209de8ea1c5cf562
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 106f3114dcae381b1be1c7867c292039
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => be9ce25720840f9f273b6043665d5e61
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 34b0df511894b4090edf4f5d2d8de44d
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+INSERT INTO user( username, password, department, id ) VALUES( :username, :password, :department, :id )
+Array
+(
+    [:username] => user-admin
+    [:password] => $2y$10$5Xs124CJvy9nfhYdNPpjZeHFxjU1BO4aAHBxbzR7xPbtQFkWkL4iq
+    [:department] => gestaltung
+    [:id] => 0ee773c4cc339c877841eb2ac2ff6529
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 8c2299ff287993cd7046edd5b05457c9
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => b80f0d02dcae25cace5ffa89076049d0
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 9c060e16c2b84f0a35497dd7065bf1f0
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 4594699d4435e12e512624bd0cf07bcb
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 1f23cc2a741c79459f3cba601a799f7e
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 452d7dc2268bb31f5c87ffb2ac0af141
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => e52ac2e84cb50fe3bb4352f376b77490
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 7c8885b06972f9d8157fc221c8d1eb6d
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 1dce0185a5bca41f66be3b10ae25f533
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 64015058b36ea8365f0b1574ceb4e65e
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 81310248cb323507ccbaa8a00f4fc111
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 81904242bd399bdcd65fe84ef60f3ba5
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => a1d75a334f70654c88ce00f0f5f2b9b5
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 27430780c2402539a587ece586d1410f
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 64478990c4949e7dcd3b1f378c73087b
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 2656e37258ae669a6077e43759fad0f4
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => bc7ee2a860bd7825e0b757816929dc15
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 105d784d652f8ed935d7634fd348d85d
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => fe770fa593caf61cd6a81d531070f3a2
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 7dcdf4a0d880a3d7d21e20ba6bfb2a6d
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 307f03f0fb8f799856229b548b310a0d
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 70eceff14e19198c70c3def3de163b92
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => af14b1c014ca8a95b516da39bef7a31e
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => f21207b938af42a09a14e37c8b1fe480
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => ae0ee7b06e60d1ff9806b25680b036bc
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 0207dbd627b22b94083c020918edb5f1
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 30a8d8ce43326be481428df1ab423f1d
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => e4f61ad2b122efad4f36343c76b2b6cd
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => bb0b94d4b460bc51afda72f555da4c6f
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => be59aed5fd8f400cc521786d2fbb8065
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => testuser
+)
+
+INSERT INTO user( username, password, department, id ) VALUES( :username, :password, :department, :id )
+Array
+(
+    [:username] => testuser
+    [:password] => $2y$10$D/mZ7uFX4pTcYhIoQaX2.eaYA/Al7zoidg8kRX5vScKz2PHNoKZee
+    [:department] => gestaltung
+    [:id] => 1ac9c813cd847f2fb6ad61748f732231
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => testuser
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => testuser
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 1
+    [:salt] => 92a9e053289c4732fb009a585da259b7
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 1
+    [:salt] => 58f9663e3499f0eaa4457171584e066a
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 1
+    [:salt] => 04ab8e97565f058711183857c6308cc0
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 1
+    [:salt] => 8e1972e8b84e3f3d789d3c892e6eaaf7
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 1
+    [:salt] => 1f079cab16fb39db94ff6ebd33bad6d4
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => aaaaaaaaaa
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => aaaaaaaaaa
+)
+
+INSERT INTO user( username, password, department, id ) VALUES( :username, :password, :department, :id )
+Array
+(
+    [:username] => aaaaaaaaaa
+    [:password] => $2y$10$sBCVpLjXsxktdwaCupds3e5NgAeoBsf.7SUEjIbcGkQvQzvK8f9nK
+    [:department] => gestaltung
+    [:id] => ab170d73e1383a599766d9cce9f6c9cb
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => aaaaaaaaaa
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => aaaaaaaaaa
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => ab170d73e1383a599766d9cce9f6c9cb
+    [:salt] => 265d0f76c8087b8da5d72dbae50a49e2
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => ab170d73e1383a599766d9cce9f6c9cb
+    [:salt] => ec8bd622c3f5a3ce34b3d862191318d7
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => ab170d73e1383a599766d9cce9f6c9cb
+    [:salt] => ce739f421de3b845f2ae147c7d21af86
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => ab170d73e1383a599766d9cce9f6c9cb
+    [:salt] => 2c128b5bba1ebf351aeda27d40aa3e24
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => nöoalsfgönpaofsgoö
+)
+
+INSERT INTO user( username, password, department, id ) VALUES( :username, :password, :department, :id )
+Array
+(
+    [:username] => nöoalsfgönpaofsgoö
+    [:password] => $2y$10$ZQVLTUMvkN0CrwgYXl2dv.FhT1o2lYv5B0VAp.0XSyg2zZXiMf.RO
+    [:department] => gestaltung
+    [:id] => 56dc43214305bc47f091325938bef3f4
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => nöoalsfgönpaofsgoö
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => nöoalsfgönpaofsgoö
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => nöoalsfgönpaofsgoö
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => nöoalsfgönpaofsgoö
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 56dc43214305bc47f091325938bef3f4
+    [:salt] => c9863ac422760b555f0dc08e71eab428
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 56dc43214305bc47f091325938bef3f4
+    [:salt] => 2f2c59d7267f2225a4b3a28f2d8c394c
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 25f98e9eda5d229af5063800f1b3f7a0
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 2022e60029911af4389c9244e4e6a8bf
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 
+    [:salt] => 2c37dff6614644c9d1d2da1b85ffbeeb
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => b7b14eb5d24fb40bff213693d9c30d00
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => be584a63ac173dadfffaf606a6dc8db6
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 4cc90ed5ebbf862e978ade332458cfb4
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => f9020b1861e1be85a62035267ebb14f6
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => 5b6d92e617ae7cf9dbe80e70d1059041
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => d316b3f1f32aff0148a7f3df471c7c44
+)
+
+INSERT INTO salt(id, salt) VALUES(:id, :salt)
+Array
+(
+    [:id] => 0
+    [:salt] => c48607c6a53ed4c3a915df7dc7652893
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 0
+    [:hash] => c426d2add3178cdabf4e17168b18d745
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 0
+    [:hash] => 838518e2c0bb60c6df70989604a8ad93
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 0
+    [:hash] => 69ce31d5a25faed37986a87aa2d885ee
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 0
+    [:hash] => 3483c8c38f1e563167ace1ec59ae1d1c
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 0
+    [:hash] => 90b378b911fdaaf7191a9a3b0aea8fa3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 
+    [:hash] => 6c29de307b3617401ff0d430fbac29c9
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 
+    [:hash] => e90331381ee5f4efd90812520ca06979
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 
+    [:hash] => 64483c76b4d620e4948963801b408ad7
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 
+    [:hash] => 963d884f276d57b5e782d7298124639b
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 
+    [:hash] => 17d372752dadfe89093fe80dddfa1163
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 
+    [:hash] => 4d40e2d1df59dc6f03922382d473dec6
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 0
+    [:hash] => ea46fbfce7845ec27a6dc5e2b991d34a
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 
+    [:hash] => 9068cece35659fdefde9f7f1df35f018
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 
+    [:hash] => 44e69b60aa1ed8190e6d66feae1b3486
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 0
+    [:hash] => 9b2c349114295f1c65283bd274877783
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 
+    [:hash] => 298b0bd9e1a84cb85acc70548b7f0e88
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 
+    [:hash] => 6a0c3e7ea5f2cb16a0dc3d085e6cebb7
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+INSERT INTO user( username, password, department, id ) VALUES( :username, :password, :department, :id )
+Array
+(
+    [:username] => user-admin
+    [:password] => $2y$10$1VTMAmpLF9Z9WylxQqQ/auoOQSetQ6LG6aDyG8Gq.snX55f7x4PN6
+    [:department] => gestaltung
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 5905f81243648869d91bebfc8a4d1cf5
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 35a48439696bfd5dbce81e20f9e72c79
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 42ecbb90e804f2a9140d046f0d799a0f
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => c58121ab2b5b9e12f4b07e4a72c26ae3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 
+    [:hash] => dcc0df996e97f27e2f15ff8d379c9caa
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 
+    [:hash] => c383b7425c27393b235cda9e8fe39b99
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 
+    [:hash] => 82fa0c418a218ac1b89b89c94408b6ed
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => b667f4ab999b849afdfa1501b54b1318
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 8fa5084f29de09e0590e987eb8559bc0
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => d39947f5b2c7075d6a0652bbbee6cc69
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 1b842e069e29de68e8b81a7ec4639542
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 5220765fb8d61a9c06f4c50203ab1f68
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 04ec95f79e1d85f12f676b6b945bce2d
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 5430bc4b40bb4c9e5661ac3123ffe76f
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 5df0fb1d235c3e59dfe0a0ab428e66af
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => e69f4fd61ab08f696dc44f3b92f91ead
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => b36c957e0b5e7fadc7d0ea1f8949141d
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 76ed0658a0fb4c3db38335fe4321cbe3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 010e07225fc904dff79fd0e5d70eaeb7
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => b95ce342d27f445ea06bce3bc86fb7af
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => bcca22385ae25e0756393bb5b26572f1
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => c6a96bdd1a46fbbf9915b454faf5bb40
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 626fae3280f2f9cf2925448fc2375aca
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 88ecedea1dc86884a43e1911a96bb0e7
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 4ab7ad25efdeb423bd9672303038558b
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 80d542e5805613e109d1d3e9fa6afc0d
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 00fcaa8f78c97b5aa50f6526554aae43
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT salt FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => ebff450bd3a02b27fbeef52e4639ad84
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 6e034128d6e4b9b51aeb16bb407d5e82
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 3308aea282d7082519174f5fdeeee719
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 3d23d2a50315116df5bbcd6ba8c5d67a
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 45eb2e4b651beac0f6bcc0479981ff02
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => f11c1f1ed0fef137bd87153d66d5fc46
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 64c83a8c7e09014391336385f0d85012
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 2ec2a0876aba26745fd24f6cd2002215
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 1e81ae94dbe175b538ff55a6c94f973a
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 
+    [:hash] => a93f7b40281f7e611bec5b0165a0ab5c
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => 
+    [:hash] => 988729267e216d24da832ca5a97acb67
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 3ad6bb302d5f98183d9fec60f1f4daff
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 03ee32243d70b76b8a0d4c95af469ff7
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 092f6188224e843dfa15113f6d8b831e
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 2ef074cb8afed83c34220cb88856f905
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => b0ae792586f7c5c3dd567312d876bb68
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 1047a05374dbcd45d6a2ed3da2595b8b
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => b965495015344aa364ca0ce9f784fc69
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 7960eaf30c16735631a665c469789734
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 4364eb06e701a94e7020b91ee734320c
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 4e9f7ce09f212021208ed4cf601c7643
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 9524b0facf8fd4638517c5d451908faa
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 8c2387ac3d6c3b784edb911868a265e3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 0748e521717acb71500f411bcdbcec3b
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => a9698100460ebab5cf91e20dbed17797
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 3c95394134fe733848c3aa82c6809e26
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => e30d343f9f1c5a6d3d94cfc2d2fd3f8c
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 9571378ddeaeb9e1bd3b37bea671efaf
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 6bf563478b3c1962000c3f2cea458a10
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 722e10e8c316de234a104c175f9dc1c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 4ed54e54a6549483d0e778535d8d90d8
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 4ce01bfe0a47855c04629933ca4ff429
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 4e8e855b20933f748fee1b77fbac2596
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => c7c9a33c91485ee75dfa8aa127aabdd9
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => b31da2376b32cfb5ec65655df7f7fc26
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => cb8e9a2070ca2102a4df7e00e221a1d9
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 6b3612e5859ce5063bed6a9b1c228254
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 3653b62b2c6b0f70ee66e016c17b462e
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => f56686783ffb40f3cb262ddf160f6511
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => ce5d0557a8f186ed1b1902c363563707
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 9c8166ed4077a59d0852eacbe87913bd
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => a35b6ef753e93155044a1d18fac90e73
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => a0f8032f5a0818ce2207e75e4836f89f
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 87bec70c48133711aa7bc4b405e8b7f8
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 83690dcd876ad92f19a1a5e1d4c27c6d
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 8ecf51ea8f34ff52f65d27b0e98a2fc9
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => b69e577589d4e2036c25fe4846ba491d
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 6ec9af9b67c50dc7619e6b4d972b7a66
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => c686e18e068b425b48575ce41c57bce2
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 9ee046ccf39e56df49dd1e0717853aae
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 75d4b15e74fd416333598945eafc4945
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 7794a6d3f65617a2ef0c94b27a777929
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 7794a6d3f65617a2ef0c94b27a777929
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => d21efd1661469cfefa9c0fea56a296cf
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 6fb9776140181ed3a3b9158d9caf8875
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 8fe37326e51d1878c0a9eebd0a2c0c71
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => a942644ea5b024d7df89c9e0d30bc871
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 6d43835b707678d7479043bea6de4edc
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => f6af0742f47b3f9d1fc9df73944d3243
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 2684a38705b532457d2eec22a837596f
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => c491141b013c9de0d5e4d8c99ce63557
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 18e9b3be6f185282059ae458062995ff
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 969f8d855b9a1b59c79e2ee235bc8709
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 5307138a0d952a0b920637d2f9155d39
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 2c43553be1ba6fed403d734a7bc28edd
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 85ad287f9de0736376c76f9c36e6d882
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 04ff26be43d6dc298fe1e35348878716
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => ec51dc6981a6e0831ed6328af7fbd691
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 03f31a0068b4256b5e5b22d7aef2b26a
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 1406e4db542bddc43413b48ce8e3fbdf
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => dac7c8cdce3e277dae9a7758b5cbcd7b
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => b2fbe83478894e1b927194a94941feb3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => cc6f17e346741527ff2618f3b3c23af8
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => b04305a87356c4da04dfa68859bb786a
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 2195ab289014d0b8213ad5ea0c757a7e
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 7b59d51b2d5d97d2162cd68eb7d0c7f8
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => e0374986187ae7129b1bd028df6e35a6
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => ea97a4c179c869d28fe278af53686ac4
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 9e5d991a7f1954452ec660eb43a4b282
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 47fc0477ec2641fba3420045e9e02270
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 2b0b8d1b583c8e7eef3015640c111a2d
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => f9092604c9a61841c66fc839a9644ca5
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 4415ad2bd58efad83c85162a5b506161
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => ff9476657a670a0689933676a9a4c004
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => ec7e84892e3d9b7718c0c2acbaad2bb3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => ed4b14335c0013a6fa7560e107293b08
+)
+
+SELECT hash FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+DELETE FROM salt WHERE id = :id
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+)
+
+INSERT INTO salt(id, hash) VALUES(:id, :hash)
+Array
+(
+    [:id] => b75a971397ae2f3d6ec3dd03d5d211c3
+    [:hash] => 81d12cd09884b943b4be3a4c551f0a49
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
