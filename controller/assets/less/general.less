@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald');
 
-/*
+/* ################################################################################# */
+/* ############################### LESS VARIABLES ################################## */
+/* ################################################################################# */
 
-	LESS VARIABLES
-
-*/
-
-@basicWidth: 1024px;
+@basicWidth: 1424px;
 @dColor1: #ededed; /* html */
 @dColor2: #1c1c1c; /* nav */
 @dColor3: #444; /* nav border */
@@ -18,11 +16,9 @@
 
 
 
-/*
-
-	GENERAL CLASSES
-
-*/
+/* ################################################################################# */
+/* ############################## GENERAL CLASSES ################################## */
+/* ################################################################################# */
 
 *,
 *:after,
@@ -40,14 +36,6 @@ body {
   background-color: @dColor1;
   font-family: 'Helvetica', sans-serif;
   font-size: 1em;
-
-}
-
-.wMain {
-  
-  width: 100%;
-  margin: auto;
-  max-width: @basicWidth;
 
 }
 
@@ -95,46 +83,17 @@ body {
 
 }
 
+.clear {
+  
+  clear: both;
 
-/*
-
-	ELEMENTS
-
-*/
-
-.button {
-
-	display: inline;
-
-	& input {
-
-		padding: 5px 15px;
-		background-color: @dColor1;
-		border: 1px solid @dColor4;
-		border-radius: 3px;
-		color: #ccc;
-		font-size: 10px;
-		cursor: pointer;
-
-		&:hover {
-
-			background-color: @dColor3;
-
-		}
-
-	}
-	
 }
 
 
 
-
-
-/*
-
-	HTML TAGS
-
-*/
+/* ################################################################################# */
+/* ################################# HTML TAGS ##################################### */
+/* ################################################################################# */
 
 header {
 
@@ -192,25 +151,61 @@ h1 {
 
 }
 
+.button {
+
+  display: inline;
+
+  & input {
+
+    padding: 5px 15px;
+    background-color: @dColor1;
+    border: 1px solid @dColor4;
+    border-radius: 3px;
+    color: #ccc;
+    font-size: 10px;
+    cursor: pointer;
+
+    &:hover {
+
+      background-color: @dColor3;
+
+    }
+
+  }
+  
+}
 
 
 
 
-/*
+/* ################################################################################# */
+/* ############################### WRAPPER CLASSES ################################# */
+/* ################################################################################# */
 
-	WRAPPER CLASSES
-
-*/
+/* wGeneral contains everything from wMain to sidebars */
 
 .wGeneral {
-
+  
   width: 100%;
+  margin: auto;
+  max-width: @basicWidth;
+
+}
+
+
+
+/* wMain contains everything except sidebars */
+
+.wMain {
+
+  width: 80%;
   max-width: @basicWidth;
   background-color: @wGeneral;
   border-left: @wGeneralBorder;
   border-right: @wGeneralBorder;
   padding: 1.2em;
   float: left;
+  width: 75%;
 
   &:after {
 
@@ -221,6 +216,112 @@ h1 {
   }
 }
 
+
+/* sidebar contains elements beside the main content */
+
+.sidebar {
+
+  float: right;
+  width: 25%;
+  background: red;
+  height: 400px;
+
+}
+
+
+.wCard {
+
+  background: #ccc;
+
+  & .card {
+
+    background: rgba(100,200,10,0.5);
+    width: 33.33%;
+    padding-right: 15px;
+    padding-left: 15px;
+
+    & .wiCard {
+
+      width: 100%;
+      padding:2px;
+      background: #ffffff;
+
+      /* give .ttCard, .cgCard,... padding-left */      
+      & * {
+
+        padding-left: 10px;
+
+      }
+
+      /* card teaser */
+      & .tsCard {
+
+        width: 100%;
+        height: 80px;
+
+        background: grey;
+
+      }
+
+      /* card title */
+      & .cardTitle,
+      & .wSpecials {
+
+        font-size: 1.2em;
+        font-weight: 600;
+        color: #555;
+        line-height: 50px;
+        height: 50px;
+        width: 50%;
+        background: #f5f5f5;
+        border-bottom: 1px solid #dedede;
+        float: left;
+
+        /* avoid double margin */
+        & .ttCard {
+
+          margin-left: 0 !important;
+
+        }
+
+      }
+
+      /* wrapper for the colored special-dots */
+      & .wSpecials {
+
+        width: 50%;
+        float:left;
+
+        & .special {
+
+          height: 20px;
+          width: 20px;
+          border-radius: 20px;
+          margin-top: 14px;
+          margin-left: 14px;
+          float:left;
+          background: red;
+
+        }
+
+      }
+
+      /* card category */
+      & .cgCard {
+
+        font-size: 0.8em;
+        line-height: 30px;
+        height: 30px;
+        background: #ededed;
+        clear: both;
+
+      }
+
+    }
+
+  }
+
+}
 
 
 
