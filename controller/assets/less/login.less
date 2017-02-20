@@ -1,0 +1,177 @@
+/* wrapper for the login field */
+
+.wGeneral {
+  
+  & #wLogin {
+
+    display: block;
+    color: rgba(139, 173, 184, 0.9);
+    text-align: center !important;
+
+  }
+
+}
+
+
+.login {
+  
+  & input,
+  & select {
+
+    height: 3.5em;
+    padding-left: 1.5em;
+    width: 100%;
+    border-radius: 3px;
+    border: 0;
+    margin-bottom: 20px;
+    
+  }
+
+  & select {
+
+    border:none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding: 10px;
+
+  }
+
+  & select > option {
+    
+    padding: 5px;
+    border-top: 1px solid #ccc;
+    border-left: 0;
+    background-color: #333;
+    color: #fff;
+
+  }
+
+}
+
+
+.wRegister {
+
+  max-height: 0;
+  overflow: hidden;
+  clear: both;
+  transition: all 1s;
+
+}
+
+
+.show {
+
+  max-height: 200px;
+  height: 200px;
+  height: auto;
+  transition: all 1s;
+
+}
+
+
+.inactive {
+
+  pointer-events: none;
+  opacity: 0.4;
+
+}
+
+
+.button {
+
+  opacity: 0.5;
+  
+  &:last-child {
+
+    margin-left: 15px;
+
+  }  
+
+  &:not(.active) {
+
+    cursor: pointer;
+
+  }
+
+  &.fleft {
+
+    margin-top: 5px;
+
+  }
+
+  &.active {
+
+    opacity: 1;
+
+    & > div:hover {
+
+      margin-top: 0;
+      color: rgba(139, 173, 184, 0.9);
+
+    }
+  
+  }
+
+  & > div:hover {
+
+    transition: all .5s;
+    color: #eee;
+    margin-top: 2px;
+
+  }
+
+}
+
+
+.submit {
+
+  height: 0;
+  width: 0;
+  padding: 20px;
+
+}
+
+
+.missing {
+
+  transition: all 0.2s;
+  box-shadow: 0 0 5px red inset;
+
+  &:after {
+
+    content: 'AAA';
+    position: absolute;
+    background-color: red;
+    height: 200px;
+    width: 200px;
+
+  }
+
+}
+
+
+.hint {
+
+  position: relative;
+  float: left;
+  top: -10px;
+  display: block;
+  line-height: 0;
+  font-size: 10px;
+  font-weight: 200;
+  font-family: "Helvetica";
+  color: rgba(255, 150, 150, 1);
+
+}
+
+.hidden {
+
+  display: none;
+  visibility: hidden;
+
+}
+
+
+
+
