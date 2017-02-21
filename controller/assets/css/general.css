@@ -122,14 +122,16 @@ hr {
   max-width: 1424px;
   margin-top: 20px;
 }
-/* wMain contains everything except sidebars */
+/* 
+
+  wMain contains everything except sidebars
+
+*/
 .wMain {
   width: 80%;
   max-width: 1424px;
-  background-color: #ffffff;
   border-left: #cccccc;
   border-right: #cccccc;
-  padding: 1.2em;
   float: left;
   width: 75%;
 }
@@ -138,21 +140,8 @@ hr {
   display: table;
   clear: both;
 }
-/* sidebar contains elements beside the main content */
-.sidebar {
-  width: 25%;
-  max-width: 356px;
-  background: red;
-  position: fixed;
-  margin-left: 1068px;
-  bottom: 0;
-  top: 63px;
-}
-.wCards {
-  background: #ccc;
-}
+/* wrapper for all cards but cards in the sidebar */
 .wCards .card {
-  background: rgba(100, 200, 10, 0.5);
   width: 33.33%;
   padding-right: 15px;
   padding-left: 15px;
@@ -204,8 +193,8 @@ hr {
   width: 20px;
   border-radius: 20px;
   margin-top: 15px;
-  margin-left: 14px;
-  float: left;
+  margin-right: 14px;
+  float: right;
   background: red;
 }
 .wCards .card .wiCard .cgCard {
@@ -272,12 +261,62 @@ hr {
 .wCards .card .wiCard .wMember:last-child {
   border-bottom: 0;
 }
+/* 
+
+  sidebar contains elements beside the main content
+
+*/
+.wSidebar {
+  width: 25%;
+  max-width: 356px;
+  position: absolute;
+  margin-left: 1068px;
+  border-left: 1px solid #ccc;
+}
+.wSidebar .wCards .card {
+  /* reset the .wCards .card default */
+  width: 100%;
+  margin-bottom: 20px;
+}
+.wSidebar .wCards .card:last-child {
+  margin-bottom: 0;
+}
+.wSidebar .wCards .card .wiCard {
+  margin-bottom: 10px;
+}
+.wSidebar .wCards .card .wiCard .cardTitle {
+  float: none;
+  width: 100%;
+}
+.wSidebar .wCards .card .wiCard .wMember {
+  height: 50px;
+  margin: 0 10px;
+  padding: 10px 0;
+}
+.wSidebar .wCards .card .wiCard .wMember .mComment {
+  float: left;
+  width: 50%;
+  line-height: 30px;
+}
+.wSidebar .wCards .card .wiCard .wMember .wSpecials {
+  background: none;
+  height: auto;
+  border-bottom: 0;
+}
+.wSidebar .wCards .card .wiCard .wMember .wSpecials .special {
+  margin-top: 8px;
+  height: 15px;
+  width: 15px;
+}
+.wSidebar .wCards .card:before {
+  height: 0;
+}
 /* ################################################################################# */
 /* ################################ GRID CLASSES ################################### */
 /* ################################################################################# */
 /* 
 
-  THE WRAPPER
+	THE WRAPPER
 
 */
 .wGrid {
@@ -290,7 +329,7 @@ hr {
 }
 /*
 
-  THE DIFFERENT GRIDS
+	THE DIFFERENT GRIDS
 
 */
 .col-1-1 {
@@ -318,9 +357,9 @@ hr {
   width: 12.5%;
 }
 /* 
-  
-  Settings for the columns
-  padding for any but the last column
+	
+	Settings for the columns
+	padding for any but the last column
 
 */
 [class*='col-'] {
@@ -334,7 +373,7 @@ hr {
 /* ################################ GRID CLASSES ################################### */
 /* ################################################################################# */
 @media screen and (max-width: 1424px) {
-  .sidebar {
+  .wSidebar {
     margin-left: 75%;
   }
 }

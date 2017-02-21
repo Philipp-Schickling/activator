@@ -4754,3 +4754,15 @@ Array
     [:username] => user-admin
 )
 
+SELECT * FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
+SELECT id FROM user WHERE username = :username
+Array
+(
+    [:username] => user-admin
+)
+
