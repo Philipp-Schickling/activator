@@ -1,3 +1,0 @@
-# activator
-# activator
-# activator

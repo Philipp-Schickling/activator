@@ -1,9 +1,0 @@
-
-	
-			<?php
-
-				include "metadata.php";
-
-			?>
-
-
