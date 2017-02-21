@@ -232,6 +232,7 @@ hr {
   height: 40px;
   border-radius: 40px;
   border: 1px solid blue;
+  background: #0032fa;
   float: left;
   margin-top: -5px;
 }
