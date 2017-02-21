@@ -1,5 +1,8 @@
 <?php
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7a5aa1ca15ae325d8010aeabd9497db555093563
 // include settings
 include $_SERVER["DOCUMENT_ROOT"] . "/settings/settings.php";
 

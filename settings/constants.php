@@ -35,8 +35,11 @@
 					define( "LOGIN_CSS", DIR_CSS . "login.css" );
 				define( "DIR_JS", "assets/js/" );
 					define( "JQUERY", DIR_JS . "jquery.min.js" );
+<<<<<<< HEAD
 					define( "MASONRY", DIR_JS . "masonry.js" );
 
+=======
+>>>>>>> 7a5aa1ca15ae325d8010aeabd9497db555093563
 					define( "LOGIN_JS", DIR_JS . "login.js" );
 				define( "DIR_PHP", DIR_CONTROLLER . "assets/php/"); // exception: debug.php is included
 					define( "DEBUG", DIR_PHP . "debug.php");
@@ -87,7 +90,11 @@
 
 // General database setting
 define( "DB_HOST", "localhost" );
+<<<<<<< HEAD
 define( "DB_NAME", "TestDatabase" );
+=======
+define( "DB_NAME", "testdatabase" );
+>>>>>>> 7a5aa1ca15ae325d8010aeabd9497db555093563
 define( "DB_USER", "root" );
 define( "DB_PASSWORD", "root" );
 

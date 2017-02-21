@@ -99,6 +99,7 @@ function __tr( $string ) {
 				return $value;
 			}
 		}
+<<<<<<< HEAD
 
 		// if no value gets returned
 		$error = new ErrorLog( "Word can not be translated. Please check language.php" );
@@ -108,10 +109,20 @@ function __tr( $string ) {
 
 		$error = new ErrorLog( "browser language could not be determined" );
 
+=======
+	} else {
+
+>>>>>>> 7a5aa1ca15ae325d8010aeabd9497db555093563
 		return $string;
 
 	}
 
+<<<<<<< HEAD
+=======
+	// if no value gets returned
+	$error = new ErrorLog();
+	$error->log_error( "Word can not be translated. Please check language.php");
+>>>>>>> 7a5aa1ca15ae325d8010aeabd9497db555093563
 
 } // END OF __tr()
 

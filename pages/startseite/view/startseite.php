@@ -15,11 +15,15 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo GENERAL_CSS ?>">
 
 	<script type="text/javascript" src="<?php echo JQUERY ?>"></script>
+<<<<<<< HEAD
 	<script type="text/javascript" src="<?php echo MASONRY ?>"></script>
+=======
+>>>>>>> 7a5aa1ca15ae325d8010aeabd9497db555093563
 
 	</head>
 <body>
 
+<<<<<<< HEAD
 <header>
 <div class="wNav">
 	<nav>
@@ -13479,6 +13483,41 @@ $( window ).on( "resize", function(){
 
 </script>
 
+=======
+	<header>
+	<div class="wNav">
+		<nav>
+			<a href="login">Login</a>
+			<a href="startseite">Startseite</a>
+			<a href="">Link 3</a>
+			<a href="">Neues Projekt</a>
+		</nav>
+	</div>
+
+	</header>
+
+	<!-- Login Field -->
+	<section>
+
+		<div class="wGeneral">
+
+			<div class="wContent col-1-1 col-last">
+				<h2>Aktuelle Projekte</h2>
+				<p>aaa</p>
+		
+			</div>
+
+			
+
+		</div>
+
+	</section>
+
+	<footer>
+		
+	</footer>
+	
+>>>>>>> 7a5aa1ca15ae325d8010aeabd9497db555093563
 </body>
 </html>
 
