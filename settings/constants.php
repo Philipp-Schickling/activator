@@ -35,6 +35,8 @@
 					define( "LOGIN_CSS", DIR_CSS . "login.css" );
 				define( "DIR_JS", "assets/js/" );
 					define( "JQUERY", DIR_JS . "jquery.min.js" );
+					define( "MASONRY", DIR_JS . "masonry.js" );
+
 					define( "LOGIN_JS", DIR_JS . "login.js" );
 				define( "DIR_PHP", DIR_CONTROLLER . "assets/php/"); // exception: debug.php is included
 					define( "DEBUG", DIR_PHP . "debug.php");

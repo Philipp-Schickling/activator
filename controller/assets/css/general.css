@@ -61,18 +61,8 @@ body {
 header {
   width: 100%;
   height: 4em;
-  background-color: #1c1c1c;
-  border-bottom: 1px solid #444;
-}
-header:after,
-header::after {
-  content: "\A";
-  border-style: solid;
-  border-width: 10px 12px 10px 12px;
-  border-color: #444 transparent transparent transparent;
-  position: absolute;
-  margin-left: -1100px;
-  margin-top: 64px;
+  background-color: #ffffff;
+  border-bottom: 1px solid #ccc;
 }
 nav {
   max-width: 1424px;
@@ -85,16 +75,27 @@ nav a {
   display: block;
   float: left;
   text-align: center;
-  color: #666;
+  color: #777;
   font-size: 12px;
+  text-decoration: none;
 }
 nav a:hover {
-  color: #FFF;
+  color: #444;
 }
 h1 {
-  font-size: 1.8em;
-  color: #fff;
-  padding-bottom: 1.2em;
+  font-size: 1.6em;
+  line-height: 1.6em;
+  color: #555;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 0;
+  border-bottom: 1px solid #ccc;
+}
+hr {
+  width: 100%;
+  border-bottom: 0;
+  color: rgba(0, 0, 0, 0.3);
+  margin-bottom: 0;
 }
 .button {
   display: inline;
@@ -102,14 +103,14 @@ h1 {
 .button input {
   padding: 5px 15px;
   background-color: #ededed;
-  border: 1px solid #666;
+  border: 1px solid #777;
   border-radius: 3px;
   color: #ccc;
   font-size: 10px;
   cursor: pointer;
 }
 .button input:hover {
-  background-color: #444;
+  background-color: #ccc;
 }
 /* ################################################################################# */
 /* ############################### WRAPPER CLASSES ################################# */
@@ -119,6 +120,7 @@ h1 {
   width: 100%;
   margin: auto;
   max-width: 1424px;
+  margin-top: 20px;
 }
 /* wMain contains everything except sidebars */
 .wMain {
@@ -138,40 +140,50 @@ h1 {
 }
 /* sidebar contains elements beside the main content */
 .sidebar {
-  float: right;
   width: 25%;
+  max-width: 356px;
   background: red;
-  height: 400px;
+  position: fixed;
+  margin-left: 1068px;
+  bottom: 0;
+  top: 63px;
 }
-.wCard {
+.wCards {
   background: #ccc;
 }
-.wCard .card {
+.wCards .card {
   background: rgba(100, 200, 10, 0.5);
   width: 33.33%;
   padding-right: 15px;
   padding-left: 15px;
 }
-.wCard .card .wiCard {
+.wCards .card:before {
+  content: ' ';
+  height: 20px;
+  display: block;
+  width: 100%;
+}
+.wCards .card .wiCard {
   width: 100%;
   padding: 2px;
   background: #ffffff;
+  box-shadow: 0 0 3px #ccc;
   /* give .ttCard, .cgCard,... padding-left */
   /* card teaser */
   /* card title */
   /* wrapper for the colored special-dots */
   /* card category */
 }
-.wCard .card .wiCard * {
+.wCards .card .wiCard * {
   padding-left: 10px;
 }
-.wCard .card .wiCard .tsCard {
+.wCards .card .wiCard .tsCard {
   width: 100%;
-  height: 80px;
+  height: 120px;
   background: grey;
 }
-.wCard .card .wiCard .cardTitle,
-.wCard .card .wiCard .wSpecials {
+.wCards .card .wiCard .cardTitle,
+.wCards .card .wiCard .wSpecials {
   font-size: 1.2em;
   font-weight: 600;
   color: #555;
@@ -181,30 +193,84 @@ h1 {
   background: #f5f5f5;
   border-bottom: 1px solid #dedede;
   float: left;
-  /* avoid double margin */
 }
-.wCard .card .wiCard .cardTitle .ttCard,
-.wCard .card .wiCard .wSpecials .ttCard {
-  margin-left: 0 !important;
-}
-.wCard .card .wiCard .wSpecials {
+.wCards .card .wiCard .wSpecials {
   width: 50%;
   float: left;
+  padding-left: 0;
 }
-.wCard .card .wiCard .wSpecials .special {
+.wCards .card .wiCard .wSpecials .special {
   height: 20px;
   width: 20px;
   border-radius: 20px;
-  margin-top: 14px;
+  margin-top: 15px;
+  margin-left: 14px;
   float: left;
   background: red;
 }
-.wCard .card .wiCard .cgCard {
-  font-size: 0.8em;
+.wCards .card .wiCard .cgCard {
+  font-size: 0.7em;
   line-height: 30px;
   height: 30px;
   background: #ededed;
   clear: both;
+}
+.wCards .card .wiCard .wLikeLine {
+  float: left;
+  width: 100%;
+  background: red;
+  height: 2px;
+  padding-left: 0 !important;
+}
+.wCards .card .wiCard .wLikeLine .likelineGreen,
+.wCards .card .wiCard .wLikeLine .likelineRed {
+  float: left;
+  width: 50%;
+  height: 2px;
+  padding-left: 0 !important;
+}
+.wCards .card .wiCard .wMember {
+  margin: 10px;
+  padding: 10px;
+  font-size: 0.9em;
+  border-bottom: 1px solid #dedede;
+  height: 60px;
+  color: #555;
+  /* members e.g. without comments, maintained in one line */
+}
+.wCards .card .wiCard .wMember .mPicture {
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  border: 1px solid blue;
+  float: left;
+  margin-top: -5px;
+}
+.wCards .card .wiCard .wMember .mComment {
+  line-height: 40px;
+}
+.wCards .card .wiCard .wMember .feedbackDot {
+  height: 10px;
+  width: 10px;
+  border-radius: 20px;
+  background: red;
+  float: right;
+  margin-top: 12px;
+}
+.wCards .card .wiCard .wMember.wOtherMembers {
+  height: 35px;
+}
+.wCards .card .wiCard .wMember.wOtherMembers .mPicture {
+  padding-left: 0 !important;
+  height: 25px;
+  width: 25px;
+  margin-left: 10px;
+}
+.wCards .card .wiCard .wMember.wOtherMembers .mPicture:first-child {
+  margin-left: 0;
+}
+.wCards .card .wiCard .wMember:last-child {
+  border-bottom: 0;
 }
 /* ################################################################################# */
 /* ################################ GRID CLASSES ################################### */
@@ -263,4 +329,12 @@ h1 {
 }
 [class*='col-'].col-last {
   padding-right: 0;
+}
+/* ################################################################################# */
+/* ################################ GRID CLASSES ################################### */
+/* ################################################################################# */
+@media screen and (max-width: 1424px) {
+  .sidebar {
+    margin-left: 75%;
+  }
 }

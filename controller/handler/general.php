@@ -99,15 +99,19 @@ function __tr( $string ) {
 				return $value;
 			}
 		}
+
+		// if no value gets returned
+		$error = new ErrorLog( "Word can not be translated. Please check language.php" );
+		return $string;
+
 	} else {
+
+		$error = new ErrorLog( "browser language could not be determined" );
 
 		return $string;
 
 	}
 
-	// if no value gets returned
-	$error = new ErrorLog();
-	$error->log_error( "Word can not be translated. Please check language.php");
 
 } // END OF __tr()
 
