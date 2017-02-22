@@ -16,6 +16,7 @@
 
 	<script type="text/javascript" src="<?php echo JQUERY ?>"></script>
 	<script type="text/javascript" src="<?php echo MASONRY ?>"></script>
+	<script type="text/javascript" src="<?php echo SIDEBAR_JS ?>"></script>
 
 	</head>
 <body>
@@ -13419,63 +13420,6 @@ var msnry = new Masonry( '.wCards', {
 	itemSelector: '.card'
 
 });
-
-
-
-/*
-
-	whole screen resolution
-
-*/
-
-var screenWidth = screen.width;
-var screenHeight = screen.height;
-
-// height of sidebar
-var sidebar = $(".wSidebar");
-var sidebarHeight = sidebar.height();
-var sidebarOffsetTop = sidebar.offset().top;
-
-/*
-
-	alternate sidebar position fixed and absolute regarding to screen height –> prevent sidebar from being cut
-
-*/
-
-function toggleSidebarPosition() {
-
-	if( this.innerHeight < sidebarHeight + sidebarOffsetTop  ) {
-
-		var top = sidebar.offset().top;
-		sidebar.css( "position", "absolute" );
-		sidebar.css( "top", top );
-		sidebar.animate({
-
-			top: sidebarOffsetTop
-
-		});
-
-	} else {
-
-		sidebar.css( "position", "fixed" );
-
-	}
-
-}
-
-
-$( window ).on( "load", function(){
-
-	toggleSidebarPosition();
-
-});
-
-$( window ).on( "resize", function(){
-
-	toggleSidebarPosition();
-
-});
-
 
 </script>
 
